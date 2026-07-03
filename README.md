@@ -24,7 +24,6 @@ This dashboard provides an overview of sales performance using interactive chart
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Conditional Formatting
 
 ## Purpose
 To help users monitor sales performance, identify trends, and support business decision-making.
